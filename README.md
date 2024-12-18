@@ -1,4 +1,12 @@
-## Hi there 👋
+# PIRIYA KANTONG 👋
+
+**`He is...`**
+
+<p>💼 Co-Founder of <a href="https://www.codiloxtech.com/">CodiloxTech</a></p>
+<p>🖥️ Full-Stack Developer</p>
+<p>🌐 Marketing Director Volunteer at <a href="https://www.linkedin.com/company/untapped-energy-data-science-oil-gas/">Untapped Energy</a></p>
+
+I'm a full-stack developer passionate about building—whether it's websites, applications, meaningful connections, or businesses. While competitive by nature, I balance it with patience and resilience. I may not win today, but I firmly believe that success is inevitable with perseverance. I'm not afraid of hardship or failure; I see them as stepping stones to bounce back stronger and achieve my goals.
 
 <!--
 **Piriya-K/Piriya-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
