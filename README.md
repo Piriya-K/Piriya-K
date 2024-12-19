@@ -28,7 +28,7 @@ I'm a full-stack developer passionate about building—whether it's websites, ap
 <img align="left" alt="NodeJS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
 </span>    
 
-<br><br><br><br><br>  
+<br><br><br><br><br><br>  
 
 ## Marketing Tools
   <img align="left" alt="Google Ads" width="60px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" />
